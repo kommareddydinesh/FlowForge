@@ -339,7 +339,6 @@ These are proposed future improvements rather than claims about currently implem
 
 **K. Dinesh Raj Pal Reddy**
 
-- **Registration Number:** URK23CS7107
 - **Course:** B.Tech — Computer Science and Engineering (AI & ML)
 - **Project:** FlowForge — An Intelligent Dungeon Escape Game Using A* Pathfinding
 - **Subject:** Game Development
