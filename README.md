@@ -279,23 +279,31 @@ screenshots/
 
 Then add the following section to display them.
 
-### Main Gameplay
+## 📸 Gameplay Screenshots
 
-![FlowForge main gameplay](screenshots/gameplay.png)
+### 🎮 Main Gameplay
 
-### Enemy Pathfinding
+Explore the dungeon, navigate obstacles, and encounter enemies.
 
-![FlowForge enemy navigation](screenshots/enemy_pathfinding.png)
+![FlowForge Main Gameplay](screenshots/gameplay1.png)
 
-### Path Hint
+### ❤️ Combat and Survival
 
-![FlowForge navigation guidance](screenshots/path_hint.png)
+Experience enemy encounters and manage your health while navigating the dungeon.
 
-### Level Completion
+![FlowForge Combat Gameplay](screenshots/gameplay2.png)
 
-![FlowForge level completion](screenshots/level_complete.png)
+### 🧠 Enemy AI and Dungeon Navigation
 
-*Replace these image paths with screenshots that you have actually added to your repository. Otherwise, GitHub will show broken image links.*
+Explore the dungeon environment and observe enemy interactions.
+
+![FlowForge Enemy AI Gameplay](screenshots/gameplay3.png)
+
+### 🏆 Gameplay and Level Progression
+
+Experience the dungeon objectives and progression through the game.
+
+![FlowForge Gameplay Screenshot](screenshots/gameplay4.png)
 
 ## 📚 Learning Outcomes
 
